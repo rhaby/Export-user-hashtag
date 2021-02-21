@@ -11,4 +11,4 @@ $ cd Export-user-hashtag
 $ python3 new.py
 ```
 #Telegarm | @ciku370
-#insta | ali.rhaby
+#Telegarm | @rhaby
