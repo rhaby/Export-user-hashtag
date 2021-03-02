@@ -150,7 +150,7 @@ def ruks6():
 	except Exception as e:
 	        print('='*60)
 	        print(u'نتهى السحب')  
-	        print(u' في لستة ruks_User.txt ')       
+	        print(u' في لستة User.txt ')       
           
 ruks6()			
 #===============================#
